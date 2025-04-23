@@ -17,15 +17,15 @@ forge 'https://forge.puppet.com'
 #  branch: 'docs_experiment'
 
 # Puppet comply module
-mod 'puppetlabs/comply', '3.3.1'
-mod 'puppetlabs/complyadm', '3.3.0'
- 
+mod 'puppetlabs-comply', '3.3.1'
+mod 'puppetlabs-complyadm', '3.3.0'
+
 # dependencies for comply
-mod 'puppet/archive', '7.1.0'
-mod 'puppetlabs/chocolatey', '8.0.0'
-mod 'puppetlabs/inifile', '6.1.1'
-mod 'puppetlabs/ruby_task_helper', '0.6.1'
-mod 'puppetlabs/stdlib', '9.6.0'
-mod 'puppetlabs/powershell', '6.0.0'
-mod 'puppetlabs/registry', '5.0.1'
-mod 'puppetlabs/pwshlib', '1.1.1'
+mod 'puppet-archive', '7.1.0'
+mod 'puppetlabs-chocolatey', '8.0.0'
+mod 'puppetlabs-inifile', '6.1.1'
+mod 'puppetlabs-ruby_task_helper', '0.6.1'
+mod 'puppetlabs-stdlib', '9.6.0'
+mod 'puppetlabs-powershell', '6.0.0'
+mod 'puppetlabs-registry', '5.0.1'
+mod 'puppetlabs-pwshlib', '1.1.1'
