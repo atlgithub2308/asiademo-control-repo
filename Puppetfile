@@ -18,7 +18,6 @@ forge 'https://forge.puppet.com'
 
 # Puppet comply module
 mod 'puppetlabs-comply', '3.3.1'
-mod 'puppetlabs-complyadm', '3.3.0'
 
 # dependencies for comply
 mod 'puppet-archive', '7.1.0'
